@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Server BACKUP",
+    "server": "192.168.10.190",
+    "user": "serverbackup",
+    "port": 22,
+    "protocol": "SSH",
+    "password": "q",
+    "last_used": "2025-11-03 17:46:22"
+  }
+]
